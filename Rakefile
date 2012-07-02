@@ -14,11 +14,11 @@ require 'rake'
 require 'jeweler'
 Jeweler::Tasks.new do |gem|
   # gem is a Gem::Specification... see http://docs.rubygems.org/read/chapter/20 for more options
-  gem.name = "GPXpose"
+  gem.name = "gpxpose"
   gem.homepage = "http://github.com/ellmo/GPXpose"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{A simple library to read your GPX files and draw them onto OSM map tiles.}
+  gem.description = %Q{A simple library to read your GPX files and draw them onto OSM map tiles.}
   gem.email = "ellmunzai@gmail.com"
   gem.authors = ["ellmo"]
   # dependencies defined in Gemfile
